@@ -1,0 +1,30 @@
+[
+    {
+      "title": "Bodega Ahorro Ecommerce",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Django", "React", "Typescript"],
+      "source": "https://github.com/LuisZentenxx/BodegaAhorro"
+    },
+    {
+      "title": "Go Weather",
+      "imageSrc": "projects/golan.jpg",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["Golang", "Cobra", "Bash"],
+      "source": "https://github.com/LuisZentenxx/GoWeather"
+    },
+    {
+      "title": "CatCoin",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the latest languages by building an app.",
+      "skills": ["PHP", "Javascript", "Bootstrap"],
+      "source": "https://github.com/LuisZentenxx/CatCoin"
+    },
+    {
+        "title": "CLI Crud Golang",
+        "imageSrc": "projects/cli.jpg",
+        "description": "This is a project made to learn the latest languages by building an app.",
+        "skills": ["Golang", "Bash"],
+        "source": "https://github.com/LuisZentenxx/CLI_CRUD_GOLANG"
+      }
+  ]

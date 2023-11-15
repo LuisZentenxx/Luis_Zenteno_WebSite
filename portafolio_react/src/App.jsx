@@ -3,6 +3,7 @@ import { Navbar } from './components/Navbar/navbar'
 import { Me } from './components/Me/Me'
 import { About } from './components/About/About'
 import { Experiencia } from './components/Experiencia/Experiencia'
+import { Proyectos } from './components/Proyectos/Proyectos'
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <Me/>
       <About/>
       <Experiencia/>
+      <Proyectos/>
     </div>
   )
 }
