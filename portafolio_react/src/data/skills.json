@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Python",
+        "imageSrc": "skills/python.png"
+    },
+    
+    {
+        "title": "Django",
+        "imageSrc": "skills/django.png"
+    },
+    
+    {
+        "title": "Javascript",
+        "imageSrc": "skills/javascript.png"
+    },
+    
+    {
+        "title": "React",
+        "imageSrc": "skills/react.png"
+    },
+    
+    {
+        "title": "Go",
+        "imageSrc": "skills/golang.png"
+    }
+]
