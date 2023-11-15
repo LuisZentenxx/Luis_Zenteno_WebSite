@@ -13,13 +13,13 @@
 }
 
 .text h2 {
-  font-size: 80px;
+  font-size: 40px;
   font-weight: 700;
   letter-spacing: 4px;
 }
 
 .text p {
-  font-size: 40px;
+  font-size: 20px;
   font-weight: 400;
   letter-spacing: 2px;
 }
@@ -41,7 +41,7 @@
 .link a {
   color: var(--color-text);
   text-decoration: none;
-  font-size: 30px;
+  font-size: 20px;
   font-weight: 400;
   letter-spacing: 1.5px;
 }
