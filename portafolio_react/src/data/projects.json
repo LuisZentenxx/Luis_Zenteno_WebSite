@@ -1,29 +1,29 @@
 [
     {
       "title": "Bodega Ahorro Ecommerce",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "imageSrc": "projects/bodega.png",
+      "description": "Este proyecto es un Ecommerce desarrollado en Django, React y Typescript.",
       "skills": ["Django", "React", "Typescript"],
       "source": "https://github.com/LuisZentenxx/BodegaAhorro"
     },
     {
       "title": "Go Weather",
       "imageSrc": "projects/golan.jpg",
-      "description": "This is a project made to learn the latest languages by building an app.",
+      "description": "Este proyecto de API REST de línea de comandos desarrollado con Golang, permite obtener fácilmente la temperatura actual de cualquier ciudad del mundo simplemente ingresando el nombre de la ciudad.",
       "skills": ["Golang", "Cobra", "Bash"],
       "source": "https://github.com/LuisZentenxx/GoWeather"
     },
     {
-      "title": "CatCoin",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["PHP", "Javascript", "Bootstrap"],
+      "title": "MiauFlix",
+      "imageSrc": "projects/miauflix.png",
+      "description": "Este proyecto web desarrollado con Javascript, consume una API y permite mostrar un catalogo de péliculas y aplicar filtros de búsqueda.",
+      "skills": ["Javascript", "Firebase", "Bootstrap"],
       "source": "https://github.com/LuisZentenxx/CatCoin"
     },
     {
         "title": "CLI Crud Golang",
         "imageSrc": "projects/cli.jpg",
-        "description": "This is a project made to learn the latest languages by building an app.",
+        "description": "Es una aplicación de línea de comandos escrita en Golang que permite a los usuarios gestionar una lista de tareas directamente desde la terminal (CRUD).",
         "skills": ["Golang", "Bash"],
         "source": "https://github.com/LuisZentenxx/CLI_CRUD_GOLANG"
       }

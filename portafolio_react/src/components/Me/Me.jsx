@@ -7,8 +7,7 @@ export const Me = () => {
     return <section className={styles.container}>
         <div className={styles.content}>
             <h1 className={styles.title}>Hola, soy Luis</h1>
-            <p className={styles.description}>Estudiante de programación akjsakdjaskdkasdkasajdaskdj
-            askdjaksdjaksdjaksdkajsdkasjd aksdjkadsjksdj kajdskasjdkasdj</p>
+            <p className={styles.description}>Estudiante de programación en camino a convertirme en desarrollador full stack. Apasionado por el desarrollo web. ¡Bienvenido a mi espacio virtual!</p>
             <a href="mailto:fernandolzm98@gmail.com" className={styles.contactBtn}>Contáctame</a>
         </div>
         <img src={getImageUrl("me/me.png")} alt="My image" className={styles.meImg}/>

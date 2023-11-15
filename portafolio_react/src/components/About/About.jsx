@@ -20,7 +20,7 @@ export const About = () => {
                     <div className={styles.aboutItemText}>
                         <h3>Frontend Developer</h3>
                         <p>
-                            Soy un desarrollador frontend que está aprendiendo React y Javascript
+                            Actualmente estoy aprendiendo React, Typescript y Tailwind. Las soluciones innovadoras van de la mano de técnologías de vanguardia!.
                         </p>
                     </div>
                 </li>
@@ -31,7 +31,7 @@ export const About = () => {
                     />
                     <div className={styles.aboutItemText}>
                         <h3>Backend Developer</h3>
-                        <p>Soy un desarrollador</p>
+                        <p>Me fascina el mundo del backend, ahi reside la magia detrás de cada acción en línea! </p>
                     </div>
                 </li>
             </ul>
